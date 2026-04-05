@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Config</key>
+	<dict>
+		<key>attackrandomly</key>
+		<string>True</string>
+		<key>enablemods</key>
+		<string>True</string>
+		<key>firstwandertimeseconds</key>
+		<string>20</string>
+		<key>goosedefaultorange</key>
+		<string>#ffa500</string>
+		<key>goosedefaultoutline</key>
+		<string>#d3d3d3</string>
+		<key>goosedefaultwhite</key>
+		<string>#ff0000</string>
+		<key>maxwanderingtimeseconds</key>
+		<string>40</string>
+		<key>minwanderingtimeseconds</key>
+		<string>20</string>
+		<key>silencesounds</key>
+		<string>False</string>
+		<key>task_canattackmouse</key>
+		<string>True</string>
+		<key>usecustomcolors</key>
+		<string>True</string>
+		<key>version_donotedit</key>
+		<string>1</string>
+	</dict>
+</dict>
+</plist>
