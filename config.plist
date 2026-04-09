@@ -7,7 +7,7 @@
 		<key>attackrandomly</key>
 		<string>True</string>
 		<key>enablemods</key>
-		<string>True</string>
+		<string>False</string>
 		<key>firstwandertimeseconds</key>
 		<string>20</string>
 		<key>goosedefaultorange</key>
